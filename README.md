@@ -2,9 +2,7 @@
 
 Process killer using Windows API
 
-'''
-For studying purposes only
-'''
+### For studying purposes only
 
 A program asks for a window name input. Then it uses:
 1) FindWindowA - to grab a base handle to the window
